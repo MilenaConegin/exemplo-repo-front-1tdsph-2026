@@ -1,0 +1,50 @@
+header {
+
+background-color: #1a1a1c;
+pedding: 20xp;
+color:#fff;
+width: 90%;
+height: 120px;
+margin: 0 auto;
+
+
+}
+
+header h1{
+
+font-size: 48px;
+text-align: center;
+margin: 0;
+
+
+}
+
+header nav ul{
+list-style: none;
+blackground-color: #2c2c45;
+pedding: 0;
+
+
+}
+
+header nav ul li{
+
+display: inline-block;
+margin: 0 10xp;
+
+}
+header nav ul li a{
+
+    color: #fff;
+    text-decoration: none;
+
+}
+
+
+/*p, h2{
+
+ color:blue;
+ font-family: Arial; 
+
+}*/
+
